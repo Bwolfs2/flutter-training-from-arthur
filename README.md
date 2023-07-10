@@ -18,7 +18,7 @@ Set of repositories, links and tutorial to be used in training services, from ba
 
 ### Widgets Basics
   - [Stateless Widgets](https://www.youtube.com/watch?v=wE7khGHVkYY&t=159s)
-  - [Stateful Widgets](https://www.youtube.com/watch?v=wE7khGHVkYY&t=159s)
+  - [Stateful Widgets](https://www.youtube.com/watch?v=AqCMFXEmf3w)
   - [Inherited Widget](https://www.youtube.com/watch?v=Zbm3hjPjQMk)
     - [Exercises (PT-BR)](https://gist.github.com/arthurgiani/6a00fd4ecff09d43ace53ed92eba446f)
   - [Basic Widgets to build your first layout](https://docs.flutter.dev/development/ui/widgets/basics)
@@ -31,6 +31,7 @@ Set of repositories, links and tutorial to be used in training services, from ba
   - [Add your custom font](https://docs.flutter.dev/cookbook/design/fonts)
   - [Navigation between Pages](https://docs.flutter.dev/cookbook/navigation)
   - [How to handle Lists](https://docs.flutter.dev/cookbook/lists)
+  - [JSON serialization](https://docs.flutter.dev/development/data-and-backend/json)
 
 ### Others
   - [What is BuildContext?](https://www.youtube.com/watch?v=ALmd6jLqUK8&t=295s)

@@ -1,6 +1,7 @@
 import 'package:class_widgets/components/custom_button.dart';
 import 'package:class_widgets/pages/navigation/navigation_test_first_page.dart';
 import 'package:class_widgets/pages/widgets/widgets_intro_page.dart';
+import 'package:class_widgets/playground_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -73,7 +74,11 @@ class _MyHomePageState extends State<MyHomePage> {
             CustomButton(
               label: 'Navigation',
               nextWidget: NavigationTestFirstPage(),
-            )
+            ),
+            CustomButton(
+              label: 'Playground',
+              nextWidget: PlaygroundPage(),
+            ),
           ],
         ),
       ),
